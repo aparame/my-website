@@ -4,9 +4,9 @@ role: Graduate Research Assistant
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Formal Methods
+  - Deep Learning
+  - Control Theory
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,10 +19,10 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Oz75U7wAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/aparame
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -34,13 +34,13 @@ organizations:
     url: https://yue6.people.clemson.edu/index.php
 education:
   courses:
-    - course: PhD in Mechanical Engineering
+    - course: PhD. in Mechanical Engineering
       institution: Clemson University, SC
-      year: Jan 2022 - *Present*
-    - course: MS in Mechanical Engineering
+      year: Current
+    - course: M.S. in Mechanical Engineering
       institution: Purdue University, IN
-      year: Aug 2019 - Dec 2021
-    - course: 
+      year: 2021
+    - course: B.Eng in Mechanical Engineering
       institution: Maharashtra Institute of Technology, India
       year: 2018
 superuser: true
