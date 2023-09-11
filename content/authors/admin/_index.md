@@ -52,5 +52,5 @@ first_name: Alice
 email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello there. I am a PhD candidate in the Mechanical Engineering department at Clemson University.My areas of interests lie in **Formal Methods**, **Deep Learning** and **Autonomous Controls**. I particularly focus on verification of Deep Learning models to quantitatively analyse and ensure safety for autonomous applications such as mobile robots and vehicles. I am seeking intership roles starting Summer 2024 in the field of robotics.
 {style="text-align: justify;"}
