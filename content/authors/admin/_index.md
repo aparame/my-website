@@ -34,23 +34,24 @@ organizations:
     url: https://www.stanford.edu/](https://yue6.people.clemson.edu/index.php
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Mechanical Engineering
+      institution: Clemson University, SC
+      year: Jan 2022 - *Present*
+    - course: MS in Mechanical Engineering
+      institution: Purdue University, IN
+      year: Aug 2019 - Dec 2021
+    - course: 
+      institution: Maharashtra Institute of Technology, India
+      year: 2018
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Parameshwaran
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Aditya
+email: "adiparamesh@gmail.com"
 ---
 
 Hello there. I am a PhD candidate in the Mechanical Engineering department at Clemson University. My areas of interests lie in **Formal Methods**, **Deep Learning** and **Autonomous Controls**. I particularly focus on verification of Deep Learning models to quantitatively analyse and ensure safety for autonomous applications such as mobile robots and vehicles. I am seeking intership roles starting Summer 2024 in the field of robotics.
 {style="text-align: justify;"}
+
