@@ -31,7 +31,7 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: I2R Lab, Clemson University
-    url: https://www.stanford.edu/](https://yue6.people.clemson.edu/index.php
+    url: https://yue6.people.clemson.edu/index.php
 education:
   courses:
     - course: PhD in Mechanical Engineering
