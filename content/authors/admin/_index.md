@@ -1,6 +1,6 @@
 ---
-title: Alice Wu 吳恩達
-role: Professor of Mechanical Engineering
+title: Aditya Parameshwaran
+role: Graduate Research Assistant
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
