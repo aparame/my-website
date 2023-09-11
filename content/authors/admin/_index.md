@@ -30,8 +30,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: I2R Lab, Clemson University
+    url: https://www.stanford.edu/](https://yue6.people.clemson.edu/index.php
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -52,5 +52,5 @@ first_name: Alice
 email: ""
 ---
 
-Hello there. I am a PhD candidate in the Mechanical Engineering department at Clemson University.My areas of interests lie in **Formal Methods**, **Deep Learning** and **Autonomous Controls**. I particularly focus on verification of Deep Learning models to quantitatively analyse and ensure safety for autonomous applications such as mobile robots and vehicles. I am seeking intership roles starting Summer 2024 in the field of robotics.
+Hello there. I am a PhD candidate in the Mechanical Engineering department at Clemson University. My areas of interests lie in **Formal Methods**, **Deep Learning** and **Autonomous Controls**. I particularly focus on verification of Deep Learning models to quantitatively analyse and ensure safety for autonomous applications such as mobile robots and vehicles. I am seeking intership roles starting Summer 2024 in the field of robotics.
 {style="text-align: justify;"}
