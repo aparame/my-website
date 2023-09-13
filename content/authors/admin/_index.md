@@ -11,12 +11,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=Oz75U7wAAAAJ&hl=en&oi=ao
@@ -25,7 +19,7 @@ social:
     link: https://github.com/aparame
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/aditya-parameshwaran-a3500728a/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
