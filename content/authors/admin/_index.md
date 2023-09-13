@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD. in Mechanical Engineering
       institution: Clemson University, SC
-      year: Current
+      year: **Present**
     - course: M.S. in Mechanical Engineering
       institution: Purdue University, IN
       year: 2021
