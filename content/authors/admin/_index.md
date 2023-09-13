@@ -30,13 +30,13 @@ education:
   courses:
     - course: PhD. in Mechanical Engineering
       institution: Clemson University, SC
-      year: **Present**
+      year:
     - course: M.S. in Mechanical Engineering
       institution: Purdue University, IN
-      year: 2021
+      year: 
     - course: B.Eng in Mechanical Engineering
-      institution: Maharashtra Institute of Technology, India
-      year: 2018
+      Institution: Maharashtra Institute of Technology, India
+      year: 
 superuser: true
 status:
   icon: ☕️
@@ -46,6 +46,6 @@ first_name: Aditya
 email: "adiparamesh@gmail.com"
 ---
 
-Hello there. I am a PhD candidate in the Mechanical Engineering department at Clemson University. My areas of interests lie in **Formal Methods**, **Deep Learning** and **Autonomous Controls**. I particularly focus on verification of Deep Learning models to quantitatively analyse and ensure safety for autonomous applications such as mobile robots and vehicles. I am seeking intership roles starting Summer 2024 in the field of robotics.
+Hello there. I am a PhD candidate in the Mechanical Engineering department at Clemson University. My areas of interest lie in **Formal Methods**, **Deep Learning**, and **Autonomous Controls**. I particularly focus on the verification of Deep Learning models to quantitatively analyze and ensure safety for autonomous applications such as mobile robots and vehicles. I am seeking internship roles starting Summer 2024 in the field of robotics.
 {style="text-align: justify;"}
 
