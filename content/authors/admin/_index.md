@@ -1,6 +1,6 @@
 ---
 title: Aditya Parameshwaran
-role: Graduate Research Assistant
+role: PhD. Candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
