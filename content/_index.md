@@ -23,12 +23,12 @@ sections:
       items:
         - name: C++
           description:
-          icon: r-project
-          icon_pack: fab
+          icon: cpp
+          icon_pack: 
         - name: Python
           description:
-          icon: chart-line
-          icon_pack: fas
+          icon: python
+          icon_pack: fab
         - name: Deep Learning
           description:
           icon: camera-retro
