@@ -3,7 +3,13 @@
 title:
 date: 2022-10-24
 type: landing
-
+design:
+  background:
+    # Choose a color such as from https://html-color-codes.info
+    color: 'navy'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+    text_color_light: 
+    
 sections:
   - block: about.biography
     id: about
