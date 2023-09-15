@@ -16,15 +16,19 @@ sections:
       title: Skills
       items:
         - name: C++
-          description: 90%
+          description:
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Python
+          description:
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Deep Learning
+          description:
+          icon: camera-retro
+          icon_pack: fas
+        - name: Controls
+          description:
           icon: camera-retro
           icon_pack: fas
   - block: experience
