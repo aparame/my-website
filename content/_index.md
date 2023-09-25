@@ -31,11 +31,11 @@ sections:
           icon_pack: fab
         - name: Deep Learning
           description:
-          icon: python
+          icon: sitemap
           icon_pack: fas
         - name: Controls
           description:
-          icon: python
+          icon: user-gear
           icon_pack: fas
   - block: experience
     id: Experience
