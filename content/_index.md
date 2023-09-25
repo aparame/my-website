@@ -31,11 +31,11 @@ sections:
           icon_pack: fab
         - name: Deep Learning
           description:
-          icon: camera-retro
+          icon: python
           icon_pack: fas
         - name: Controls
           description:
-          icon: camera-retro
+          icon: python
           icon_pack: fas
   - block: experience
     id: Experience
