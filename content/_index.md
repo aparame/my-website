@@ -191,13 +191,12 @@ sections:
         Please feel free to leave me a message as needed. Thank you for visiting my website.
       # Contact (add or remove contact options as necessary)
       email: adiparamesh@gmail.com
-      
-     
+
       address:
         street: 
         city: Clemson
         region: SC
-        postcode: '29530'
+        postcode: '29630'
         country: United States
         country_code: US
       
@@ -209,14 +208,5 @@ sections:
         
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+      
 ---
