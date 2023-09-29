@@ -52,8 +52,8 @@ sections:
       items:
         - title: Graduate Research Assistant
           company: US Army - VIPR Centre
-          company_url: ''
-          company_logo: org-gc
+          company_url: 'https://news.clemson.edu/clemson-u-s-army-gvsc-expand-research-partnership-for-next-generation-autonomous-vehicles/'
+          company_logo: org-gra
           location: Clemson, South Carolina
           date_start: '2022-01-11'
           date_end: ''
