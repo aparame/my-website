@@ -168,8 +168,8 @@ sections:
           date_end: ''
           date_start: '2021-04-13'
           description: Applied Deep Learning and Behavioral Cloning
-          organization: edX
-          organization_url: https://www.edx.org
+          organization: Udemy
+          organization_url: https://www.udemy.com
           title: The Complete Self-Driving Car Course
           URL: ''
         - certificate_url: https://coursera.org/share/48c80bb9fd0ca11db7c3b3d7da090c1c
@@ -177,7 +177,7 @@ sections:
           date_start: '2020-07-02'
           description: ''
           organization: Coursera
-          organization_url: 
+          organization_url: https://www.coursera.org
           title: Control of Mobile Robots
           url: ''
     design:
