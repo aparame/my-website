@@ -7,17 +7,17 @@ event_url: https://wcx.sae.org/
 location: Detroit, Michigan
   
 
-summary: Presenting my work on guranteeing safety in autonomous vehicle navigation
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Presenting my work on guaranteeing Safety in Autonomous Vehicle navigation
+abstract: 'Safety verification is now an imminent task prior to the large-scale deployment of such convoluted models. For safety-critical tasks in navigation, it becomes imperative to perform a verification procedure on the trajectories proposed by the planning algorithm prior to deployment. Signal Temporal Logic (STL) constraints can dictate the safety requirements for an AV. A combination of STL constraints is called a specification. A key difference between STL and other logic constraints is that STL allows us to work on continuous signals. We verify the satisfaction of the STL specifications by calculating the robustness value for each signal within the specification. Higher robustness values indicate a safer system.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2023-04-19T10:00:00Z'
+# date_end: '2030-06-01T15:00:00Z'
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -26,14 +26,10 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'SAE WCX Congress, Detroit'
   focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -44,7 +40,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: PaWa_2023_WCX
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
