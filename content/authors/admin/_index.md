@@ -46,6 +46,6 @@ first_name: Aditya
 email: "adiparamesh@gmail.com"
 ---
 
-Hello there. I am a PhD candidate in the Mechanical Engineering department at Clemson University. My areas of interest lie in **Formal Methods**, **Deep Learning**, and **Autonomous Controls**. I particularly focus on the verification of Deep Learning models to quantitatively analyze and ensure safety for autonomous applications such as mobile robots and vehicles. I am seeking internship roles starting Summer 2024 in the field of robotics.
+Hello there. I am a PhD candidate in the Mechanical Engineering department at Clemson University. My areas of interest lie in **Formal Methods**, **Deep Learning**, and **Autonomous Controls**. I particularly focus on verifying Deep Learning models for safety, robustness, and fairness. I conduct quantitative analysis of the verification results and develop tools to ensure safety for autonomous applications such as mobile robots and vehicles. I am seeking internship roles starting in the Summer of 2024 in robotics and autonomous vehicles. My skills can be translated to mathematical models and their analysis as well.
 {style="text-align: justify;"}
 
