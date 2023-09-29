@@ -54,15 +54,15 @@ sections:
           company: US Army - VIPR Centre
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Clemson, South Carolina
+          date_start: '2022-01-11'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Operating with ROS and C++ to develop autonomous navigation algorithms for off-road ground robots.
+              * Developed 3D semantically segmented maps with LiDAR and camera sensor data using Python and PyTorch.
+              * Led the Perception team of 4 while collaborating with multiple research teams to accomplish project objectives.
+                
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
