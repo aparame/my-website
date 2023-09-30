@@ -52,5 +52,5 @@ projects:
   - example
 ---
 
-The [slides](https://docs.google.com/presentation/d/1iYR8xlaLWW_LBy45rsd_VEJTerPy_VyL/edit?usp=sharing&ouid=115261715409316286458&rtpof=true&sd=true) for the presentation can be viewed online here.
+The [slides](https://docs.google.com/presentation/d/1iYR8xlaLWW_LBy45rsd_VEJTerPy_VyL/edit?usp=sharing&ouid=115261715409316286458&rtpof=true&sd=true) for the presentation can be viewed online here. They are best viewed in presentation mode.
 
