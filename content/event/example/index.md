@@ -1,5 +1,5 @@
 ---
-title: Oral Presentation at SAE World Congress Experience
+title: Presentation at SAE World Congress Experience
 
 event: SAE WCX 2023
 event_url: https://wcx.sae.org/
