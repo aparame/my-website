@@ -95,8 +95,8 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
+  #- block: markdown
+   # content:
       title: Gallery
       subtitle: ''
       text: |-
