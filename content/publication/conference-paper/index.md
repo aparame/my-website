@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Safety Verification and Navigation for Autonomous Vehicles Based on Signal Temporal Logic Constraints'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -34,7 +34,9 @@ abstract: 'The software architecture behind modern autonomous vehicles (AV) is b
 11 citation on Dimensions.'
 
 
-tags: [Controls, Formal Language, Verification, Temporal Logic]
+tags:
+- Source Themes
+  
 
 # Display this page in the Featured widget?
 featured: true
