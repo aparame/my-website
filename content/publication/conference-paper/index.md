@@ -33,7 +33,7 @@ abstract: The software architecture behind modern autonomous vehicles (AV) is be
 11 citation on Dimensions.
 
 
-tags: [Controls, Signal Temporal Logic, Verification]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
