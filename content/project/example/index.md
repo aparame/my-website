@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Autonomous RC Car using Deep Learning
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
