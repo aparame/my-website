@@ -34,9 +34,9 @@ sections:
           icon: user-gear
           icon_pack: fas
         - name: C++
-            description:
-            icon: cpp
-            icon_pack: 
+          description:
+          icon: cpp
+          icon_pack: 
   - block: experience
     id: Experience
     content:
