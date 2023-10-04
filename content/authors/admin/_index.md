@@ -35,7 +35,7 @@ education:
       institution: Purdue University, IN
       year: 
     - course: B.Eng in Mechanical Engineering
-      Institution: Maharashtra Institute of Technology, India
+      institution: Maharashtra Institute of Technology, India
       year: 
 superuser: true
 status:
