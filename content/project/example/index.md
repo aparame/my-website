@@ -1,6 +1,6 @@
 ---
 title: Autonomous RC Car using Deep Learning
-summary: An example of using the in-built project page.
+summary: Developing an autonomous RC car that uses PID control navigate around a track, combined with a Convolution Neural Network to detect road signs.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
