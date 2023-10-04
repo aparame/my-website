@@ -21,10 +21,6 @@ sections:
     content:
       title: Skills
       items:
-        - name: C++
-          description:
-          icon: cpp
-          icon_pack: 
         - name: Python
           description:
           icon: python
@@ -37,6 +33,10 @@ sections:
           description:
           icon: user-gear
           icon_pack: fas
+        - name: C++
+            description:
+            icon: cpp
+            icon_pack: 
   - block: experience
     id: Experience
     content:
@@ -68,7 +68,7 @@ sections:
       columns: '2'
   
   
-  - block: portfolio
+  #- block: portfolio
     id: projects
     content:
       title: Projects
