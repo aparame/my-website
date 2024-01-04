@@ -4,7 +4,7 @@ role: PhD. Candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Formal Methods
+  - Robotics
   - Deep Learning
   - Control Theory
 social:
