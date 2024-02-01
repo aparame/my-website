@@ -1,6 +1,6 @@
 ---
 title: Autonomous Rail-Bot for Data Collection
-summary: Developing an autonomous RC car that uses PID control navigate around a track, combined with a Convolution Neural Network to detect road signs.
+summary: Build an autonomous bot from the ground up, that runs on railway tracks to collect telemetric and perception data. 
 tags:
   - Robotics
 date: '2016-04-27T00:00:00Z'
@@ -9,13 +9,13 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Autonomous RC Car
+  caption: Autonomous Rail-Bot
   focal_point: Smart
 
 links:
-url_code: 'https://github.com/aparame/AI_RC_Car'
-url_pdf: 'https://drive.google.com/file/d/1PvhqNhtHjqh15I8arVBqJ329xoe5nkOL/view?usp=sharing'
-url_slides: 'https://docs.google.com/presentation/d/1CcWqkM2MQmbkFz47-91WTZGl0ZzYxxNljZTX2ZMmXg8/edit?usp=sharing'
+url_code: 'https://github.com/aparame/Autonomous_RailBot'
+url_pdf: ''
+url_slides: ''
 url_video: ''
 
 # Slides (optional).
@@ -26,4 +26,4 @@ url_video: ''
 slides: ""
 ---
 
-*Abstract*: The aim of this group project is to implement the autonomous driving skills learned in class to develop an autonomous lane-keeping and road sign-detecting RC car in a known environment. The tasks of the project were broken down into sections based on the requirements for successfully navigating the RC bot around the track. We began by identifying the layout of the track and determining the best camera locations for the bot. The image data was pre-processed to be used by the lane-keeping and sign-detection algorithms. A CNN based on the ResNet architecture was trained for sign detection using images captured by the bot’s secondary camera. The result was an autonomous RC bot that was successfully able to identify and navigate through the track while detecting the STOP and SCHOOL signs accurately and reacting appropriately.
+*Abstract*: At Purdue University, I am currently engaged in the development of an autonomous railway bot designed to traverse railway tracks autonomously while simultaneously collecting crucial sensor data through the implementation of LiDAR, stereo cameras, and an Inertial Measurement Unit (IMU) for tasks such as track detection and obstacle avoidance. The primary objective of this bot is to proficiently map the railway tracks and generate a high-definition 3D map of its surrounding environment. Notably, the design of the bot is optimized to allow a single operator to carry it on their back, enhancing its mobility. Furthermore, the bot is equipped to accommodate an additional payload of 30 pounds, intended for sensors aimed at detecting faults and cracks on the track surface. The computational aspects are handled by an Nvidia Jetson AGX, serving as the computing platform to receive, process, and relay sensor data through Robot Operating System (ROS) commands to the motor controllers. The acquired perception data will be utilized to construct a dataset for training a Convolutional Neural Network (CNN), specifically tailored for the recognition of traffic signs along the railway track. The intricate blend of computer science and mechatronics involved in this project has significantly advanced my proficiency in electronics and programming
