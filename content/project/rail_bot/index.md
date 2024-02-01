@@ -1,5 +1,5 @@
 ---
-title: Autonomous RC Car using Deep Learning
+title: Autonomous Rail-Bot for Data Collection
 summary: Developing an autonomous RC car that uses PID control navigate around a track, combined with a Convolution Neural Network to detect road signs.
 tags:
   - Robotics
