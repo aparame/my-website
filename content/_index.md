@@ -87,8 +87,8 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
-        - name: Controls
-          tag: Demo
+        - name: Robotics
+          tag: Robotics
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
