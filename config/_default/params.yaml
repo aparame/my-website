@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Aditya Parameshwaran personal and academic website.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -55,7 +55,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Feb 2, 2024'
   time_format: '3:04 PM'
   address_format: en-us
 
